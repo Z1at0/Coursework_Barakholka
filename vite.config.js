@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   root: '.',
-  base: 'barakholka',
+  base: '/Coursework_Barakholka/',
   server: {
     port: 5173,
     open: true,
